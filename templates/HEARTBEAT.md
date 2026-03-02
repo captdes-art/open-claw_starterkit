@@ -20,3 +20,8 @@ Read/write memory/heartbeat-state.json to track last check times.
 - Batch 2-4 checks per heartbeat to save tokens
 - If nothing to report: HEARTBEAT_OK
 - If something needs attention: report it, skip HEARTBEAT_OK
+
+## MANDATORY — Every Heartbeat
+
+- [ ] **Pending handoffs** — Check today's daily note for any `## Pending: Waiting on` section.
+  If found, surface it: "Cap, still waiting on: [item]." Do not let open handoffs go stale.

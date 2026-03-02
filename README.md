@@ -18,6 +18,7 @@ Built by Capt Des O'Sullivan. Shared with the OpenClaw community.
 | `docs/SETUP.md` | Step-by-step setup guide |
 | `docs/LESSONS_LEARNED.md` | Hard-won lessons from production use |
 | `docs/TIMEZONE_FIX.md` | Fix for Mac PST vs user EST timezone mismatch |
+| `docs/PENDING_HANDOFFS.md` | Never drop the baton — how to survive session resets mid-task |
 
 ## Quick Start
 
